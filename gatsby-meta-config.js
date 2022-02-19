@@ -1,6 +1,6 @@
 module.exports = {
-  title: `쟈몽의 개발 로그`,
-  description: `쟈몽의 개발 로그`,
+  title: `쟈몽's DEV LOG`,
+  description: `쟈몽's DEV LOG`,
   language: `ko`, // `ko`, `en` => currently support versions for Korean and English
   siteUrl: `https://github.com/hwajin3114/`,
   ogImage: `/og-image.png`, // Path to your in the 'static' folder
