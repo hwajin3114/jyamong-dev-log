@@ -10,7 +10,7 @@ function PostHeader({ post, viewCount }) {
         <div className="categories">
           {post.categories.map((category) => (
             <Link className="category" key={category} to={`/posts/${category}`}>
-              {category}
+              {category} |
             </Link>
           ))}
         </div>
