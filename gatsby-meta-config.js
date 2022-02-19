@@ -6,7 +6,12 @@ module.exports = {
   ogImage: `/og-image.png`, // Path to your in the 'static' folder
   comments: {
     utterances: {
-      repo: ``, // `zoomkoding/zoomkoding-gatsby-blog`,
+      src: `https://utteranc.es/client.js`,
+      repo: `hwajin3114/jyamong-comment`,
+      'issue-term': `pathname`,
+      theme: `github-light`,
+      crossorigin: `anonymous`,
+      async: true,
     },
   },
   ga: '0', // Google Analytics Tracking ID
