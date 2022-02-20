@@ -19,7 +19,7 @@ categories: Gatsby
 
 > 🦄 utterances 앱 설치는 [링크](<[Utterances](https://github.com/apps/utterances)>)를 참고해주세요!
 
-우측에 녹색 설치 버튼을 클릭하고, Only select repositories 항목을 선택해서 생성한 댓글 Repository를 설정한다.
+우측에 녹색 설치 버튼을 클릭하고, `Only select repositories` 항목을 선택해서 생성한 댓글 Repository를 설정한다.
 
 ### 3. 스크립트 추가
 
@@ -38,7 +38,7 @@ categories: Gatsby
 ></script>
 ```
 
-자동으로 생성된 스크립트를 참고해서 gatsby-meta-config.js에 내용을 추가해 준다.
+자동으로 생성된 스크립트를 참고해서 `gatsby-meta-config.js`에 내용을 추가해 준다.
 ![script](script2.png)
 
 ### 4. 결과 화면
@@ -46,4 +46,5 @@ categories: Gatsby
 ![result](result.png)
 
 ## Reference
+
 https://sungchul-p.github.io/gatsby-utterances
