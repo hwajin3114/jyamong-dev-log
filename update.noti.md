@@ -15,3 +15,4 @@
 - 전체적인 디자인 scss 수정
 - bio에 github, email 추가(gatsby-meta-config.js)
 - main color > _colors.scss에 --main-color로 추가
+- blog-template.js 수정

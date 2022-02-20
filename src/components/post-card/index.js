@@ -14,7 +14,7 @@ function PostCard({ post }) {
           <div className="categories">
             {categories.map((category) => (
               <div className="category" key={category}>
-                {category} |
+                {category}
               </div>
             ))}
           </div>
