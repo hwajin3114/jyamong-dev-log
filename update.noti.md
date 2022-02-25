@@ -16,3 +16,6 @@
 - bio에 github, email 추가(gatsby-meta-config.js)
 - main color > \_colors.scss에 --main-color로 추가
 - blog-template.js 수정
+
+# 20220221 UPDATE
+- 프로필 이미지 변경
